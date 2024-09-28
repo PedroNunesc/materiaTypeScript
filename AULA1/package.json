@@ -1,0 +1,20 @@
+{
+    "dependencies": {
+      "-": "^0.0.1",
+      "g": "^2.0.1",
+      "readline-sync": "^1.4.10",
+      "typescript": "^5.4.5"
+    },
+    "name": "orientada-e-objetos",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Pedro Nunes",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+      "@types/node": "^20.14.2"
+    }
+  }
